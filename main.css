@@ -1,0 +1,39 @@
+/* 顶部导航栏开始 */
+.top-nav {
+  background-color: #ccc;
+  width: 1903px;
+  height: 30px;
+}
+.top-left {
+  width: 100px;
+  height: 28px;
+}
+.top-nav-banner {
+  width: 1170px;
+  height: 28px;
+  background-color: #aaa;
+  margin: 0 auto;
+  font-size: 12px;
+
+}
+.banner-left {
+  width: 60px;
+  height: 28px;
+  padding-left: 16px;
+  padding-right: 16px;
+  line-height: 28px;
+}
+.triangle {
+  width: 1px;
+  height: 1px;
+  display: inline-block;
+  border-style: solid;
+  margin-left: -6px;
+  margin-top: 10px;
+  border-color: #a00 transparent transparent transparent;
+}
+.top-right {
+  padding-right: 20px;
+  line-height: 27px;
+  height: 27px;
+}
